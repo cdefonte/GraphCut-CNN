@@ -7,8 +7,8 @@ For those interested in using the trained network pipeline on SWIMSEG images, fe
 To use: Demo Files with Pre-trained network
 1. Download this repository.
 2.Open MATLAB and run:
-2a. For 2-class demo (sky, cloud segmentation): C:*\GraphCut_CNN\2_classes\demo_2classes.m
-2b. For 3-class demo (sky, cloud, background segmentation): C:*\GraphCut_CNN\3_classes\demo_3classes.m
+3. For 2-class demo (sky, cloud segmentation) 'C:\*\GraphCut_CNN\2_classes\demo_2classes.m'
+4. For 3-class demo (sky, cloud, background segementation) 'C:\*\GraphCut_CNN\3_classes\demo_3classes.m'
 
 To use: For training network on 2 classes (sky, cloud)
 1. Download this repository.
